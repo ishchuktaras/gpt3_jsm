@@ -1,5 +1,5 @@
 import React from 'react';
-import './feature';
+import './Feature';
 
 const Feature = () => {
   return (
